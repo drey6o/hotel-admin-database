@@ -9,7 +9,7 @@ Academic project (PJATK): design and implementation of a relational database for
 | `baza.sql` | Table definitions, keys and constraints |
 | `joins.sql` | 4 triggers (INSERT / UPDATE / DELETE) |
 | `triggers 2.sql` | Advanced SELECT queries |
-| `opis_bazy 1.docx` | Full description of the database (in Polish) |
+| `opis_bazy 1.pdf` | Full description of the database (in Polish) |
 
 ## Highlights
 - Schema normalised to **3NF / BCNF** (candidate keys, functional dependencies, decomposition).
